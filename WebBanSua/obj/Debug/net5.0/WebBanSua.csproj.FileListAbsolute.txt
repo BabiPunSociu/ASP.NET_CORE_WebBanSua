@@ -1,0 +1,931 @@
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\appsettings.Development.json
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\appsettings.json
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.exe
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.deps.json
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.runtimeconfig.json
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.runtimeconfig.dev.json
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ref\WebBanSua.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.pdb
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.Views.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.Views.pdb
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Humanizer.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.csproj.AssemblyReference.cache
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.AssemblyInfoInputs.cache
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.AssemblyInfo.cs
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.csproj.CoreCompileInputs.cache
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.MvcApplicationPartsAssemblyInfo.cache
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.RazorAssemblyInfo.cache
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.RazorAssemblyInfo.cs
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\scopedcss\bundle\WebBanSua.styles.css
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\staticwebassets\WebBanSua.StaticWebAssets.Manifest.cache
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.TagHelpers.input.cache
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.TagHelpers.output.cache
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.RazorCoreGenerate.cache
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Home\ChitietSP.cshtml.g.cs
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Home\Product.cshtml.g.cs
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Shared\_ProductLayout.cshtml.g.cs
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.RazorTargetAssemblyInfo.cache
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.RazorTargetAssemblyInfo.cs
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.Views.pdb
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.csproj.CopyComplete
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\ref\WebBanSua.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.pdb
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.genruntimeconfig.cache
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRole\Create.cshtml.g.cs
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRole\Delete.cshtml.g.cs
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRole\Details.cshtml.g.cs
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRole\Edit.cshtml.g.cs
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRole\Index.cshtml.g.cs
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\SanPhams\Create.cshtml.g.cs
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\SanPhams\Delete.cshtml.g.cs
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\SanPhams\Details.cshtml.g.cs
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\SanPhams\Edit.cshtml.g.cs
+D:\Backup\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\SanPhams\Index.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\appsettings.Development.json
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\appsettings.json
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.exe
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.deps.json
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.runtimeconfig.json
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.runtimeconfig.dev.json
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ref\WebBanSua.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.pdb
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.Views.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.Views.pdb
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Humanizer.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.AssemblyInfoInputs.cache
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.AssemblyInfo.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.csproj.CoreCompileInputs.cache
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.MvcApplicationPartsAssemblyInfo.cache
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.RazorAssemblyInfo.cache
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.RazorAssemblyInfo.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\scopedcss\bundle\WebBanSua.styles.css
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\staticwebassets\WebBanSua.StaticWebAssets.Manifest.cache
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.TagHelpers.input.cache
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.TagHelpers.output.cache
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.RazorCoreGenerate.cache
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRole\Create.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRole\Delete.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRole\Details.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRole\Edit.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRole\Index.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanLyKhachHang\Create.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanLyKhachHang\Delete.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanLyKhachHang\Details.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanLyKhachHang\Edit.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanLyKhachHang\Index.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\SanPhams\Create.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\SanPhams\Delete.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\SanPhams\Details.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\SanPhams\Edit.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\SanPhams\Index.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Home\ChitietSP.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\SanPham\Create.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\SanPham\Delete.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\SanPham\Details.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\SanPham\Edit.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\SanPham\Index.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Shared\_ProductLayout.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.RazorTargetAssemblyInfo.cache
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.RazorTargetAssemblyInfo.cs
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.Views.pdb
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.csproj.CopyComplete
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\ref\WebBanSua.dll
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.pdb
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.genruntimeconfig.cache
+D:\LAP TRING NET NANG CAO\BTL Web Ban Sua\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.csproj.AssemblyReference.cache
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\appsettings.Development.json
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\appsettings.json
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.exe
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.deps.json
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.runtimeconfig.json
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.runtimeconfig.dev.json
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ref\WebBanSua.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.pdb
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.Views.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.Views.pdb
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Humanizer.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.GeneratedMSBuildEditorConfig.editorconfig
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.AssemblyInfoInputs.cache
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.AssemblyInfo.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.csproj.CoreCompileInputs.cache
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.MvcApplicationPartsAssemblyInfo.cache
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.RazorAssemblyInfo.cache
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.RazorAssemblyInfo.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\scopedcss\bundle\WebBanSua.styles.css
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\staticwebassets\WebBanSua.StaticWebAssets.Manifest.cache
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.TagHelpers.input.cache
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.TagHelpers.output.cache
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.RazorCoreGenerate.cache
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRole\Index.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\SanPhams\Create.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\SanPhams\Delete.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\SanPhams\Details.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\SanPhams\Edit.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\SanPhams\Index.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\SanPham\Details.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\SanPham\Index.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Shared\_ProductLayout.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.RazorTargetAssemblyInfo.cache
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.RazorTargetAssemblyInfo.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.Views.pdb
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.csproj.CopyComplete
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\ref\WebBanSua.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.pdb
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.genruntimeconfig.cache
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCustomers\Details.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCustomers\Index.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\TinTuc\Details.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\TinTuc\Index.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminNews\Create.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminNews\Delete.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminNews\Details.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminNews\Edit.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminNews\Index.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.csproj.AssemblyReference.cache
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Home\UserDashboard.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Home\ChangePassword.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategory\Create.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategory\Details.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategory\Edit.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategory\Index.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\AdminProfile.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\AdminChangePassword.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\GioHang\Index.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\SanPham\SuaTT.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\SanPham\SuaChua.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\SanPham\BoPhomat.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminAccount\Details.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminAccount\Edit.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminAccount\Index.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Checkout\Index.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\DonHangs\Details.cshtml.g.cs
+D:\TONG HOP BTL\BTL NET NANG CAO\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\DonHangs\Index.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.pdb
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\appsettings.Development.json
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\appsettings.json
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.exe
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.deps.json
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.runtimeconfig.json
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.runtimeconfig.dev.json
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.pdb
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.Views.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\WebBanSua.Views.pdb
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Humanizer.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.csproj.AssemblyReference.cache
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.AssemblyInfoInputs.cache
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.AssemblyInfo.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.csproj.CoreCompileInputs.cache
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.MvcApplicationPartsAssemblyInfo.cache
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.RazorAssemblyInfo.cache
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.RazorAssemblyInfo.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\scopedcss\bundle\WebBanSua.styles.css
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\staticwebassets\WebBanSua.StaticWebAssets.Manifest.cache
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.TagHelpers.input.cache
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.TagHelpers.output.cache
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.RazorCoreGenerate.cache
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminAccount\Details.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminAccount\Edit.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminAccount\Index.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategory\Create.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategory\Details.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategory\Edit.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategory\Index.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCustomers\Details.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCustomers\Index.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminNews\Create.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminNews\Delete.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminNews\Details.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminNews\Edit.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminNews\Index.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRole\Index.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\AdminChangePassword.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\AdminProfile.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\SanPhams\Create.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\SanPhams\Delete.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\SanPhams\Details.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\SanPhams\Edit.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\SanPhams\Index.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Checkout\Index.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\DonHangs\Details.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\DonHangs\Index.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\GioHang\Index.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Home\ChangePassword.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Home\UserDashboard.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\SanPham\BoPhomat.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\SanPham\Details.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\SanPham\Index.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\SanPham\SuaChua.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\SanPham\SuaTT.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Shared\_ProductLayout.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\TinTuc\Details.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\TinTuc\Index.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.RazorTargetAssemblyInfo.cache
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.RazorTargetAssemblyInfo.cs
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.Views.pdb
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.csproj.CopyComplete
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\refint\WebBanSua.dll
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\WebBanSua.genruntimeconfig.cache
+D:\LAP TRING NET NANG CAO\WebBanSua_AspNet Core\BTL ASP NET CORE MVC\WebBanSua\obj\Debug\net5.0\ref\WebBanSua.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\appsettings.json
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\WebBanSua.exe
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\WebBanSua.deps.json
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\WebBanSua.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\WebBanSua.runtimeconfig.dev.json
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\WebBanSua.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\WebBanSua.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\WebBanSua.Views.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\WebBanSua.Views.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\WebBanSua.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\WebBanSua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\WebBanSua.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\WebBanSua.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\WebBanSua.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\WebBanSua.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\WebBanSua.RazorAssemblyInfo.cache
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\WebBanSua.RazorAssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\scopedcss\bundle\WebBanSua.styles.css
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\staticwebassets\WebBanSua.StaticWebAssets.Manifest.cache
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\staticwebassets\WebBanSua.StaticWebAssets.Pack.cache
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\staticwebassets\msbuild.WebBanSua.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\staticwebassets\msbuild.build.WebBanSua.props
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.WebBanSua.props
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.WebBanSua.props
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\WebBanSua.TagHelpers.input.cache
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\WebBanSua.TagHelpers.output.cache
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\WebBanSua.RazorCoreGenerate.cache
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminAccount\Details.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminAccount\Edit.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminAccount\Index.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategory\Create.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategory\Details.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategory\Edit.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategory\Index.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCustomers\Details.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCustomers\Index.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminNews\Create.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminNews\Delete.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminNews\Details.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminNews\Edit.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminNews\Index.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRole\Index.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\AdminChangePassword.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\AdminProfile.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\SanPhams\Create.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\SanPhams\Delete.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\SanPhams\Details.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\SanPhams\Edit.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\SanPhams\Index.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Views\Checkout\Index.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Views\DonHangs\Details.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Views\DonHangs\Index.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Views\GioHang\Index.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Views\Home\ChangePassword.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Views\Home\UserDashboard.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Views\SanPham\BoPhomat.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Views\SanPham\Details.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Views\SanPham\Index.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Views\SanPham\SuaChua.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Views\SanPham\SuaTT.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Views\Shared\_ProductLayout.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Views\TinTuc\Details.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Views\TinTuc\Index.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\WebBanSua.RazorTargetAssemblyInfo.cache
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\WebBanSua.RazorTargetAssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\WebBanSua.Views.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\WebBanSua.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\WebBanSua.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\refint\WebBanSua.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\WebBanSua.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\WebBanSua.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Máy tính\ASP.NET_CORE_WebBanSua\WebBanSua\obj\Debug\net5.0\ref\WebBanSua.dll
